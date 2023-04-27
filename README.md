@@ -1,8 +1,9 @@
 ### Привет, мезя зовут Эдвард. Я начинающий фронтенд разработчик 👋
 
 ## Стек
-<img src='https://img.icons8.com/fluency/256/javascript.png'>
-<imr src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/135px-React-icon.svg.png'>
+<img src='icons/javascript.png'>
+<img src='icons/react.png'>
+<img src='icons/git.png>
 
 <!--
 **EdwardZhr/EdwardZhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
